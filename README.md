@@ -39,6 +39,14 @@
   - Permite al usuario hacer hasta 5 intentos para adivinar el número.
   - Informa si el número ingresado es mayor o menor que el número generado y muestra el resultado final.
  
+### 6. 🌡️🔄 Convertidor de °C a °F
+💬 **Descripción:** Convierte una temperatura en grados Celsius a Fahrenheit.
+- **Funcionalidades:**
+  - Pide al usuario que ingrese una temperatura en grados Celsius.
+  - Utiliza la fórmula `(temperatura * 1.8) + 32` para convertir la temperatura.
+  - Imprime el valor convertido de Celsius a Fahrenheit.
+  - Muestra el resultado en Fahrenheit con y sin decimales.
+ 
 ## 📧 Autora
 - Carolina Pantoja
 - [LinkedIn](https://www.linkedin.com/in/carolina-pantoja-716184144)
