@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5352f2f-6ff2-4e85-96b3-7cf6fa5636bd" name="Changes" comment="Java-Exercises">
+    <list default="true" id="f5352f2f-6ff2-4e85-96b3-7cf6fa5636bd" name="Changes" comment="Committing changes before pushing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CuestionarioMatematico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CuestionarioMatematico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LanzamientoDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LanzamientoDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecuenciaDeNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecuenciaDeNumeros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +32,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CuestionarioMatematico.executor": "Run",
+    "Application.LanzamientoDados.executor": "Run",
+    "Application.SecuenciaDeNumeros.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.LanzamientoDados">
+    <configuration name="LanzamientoDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LanzamientoDados" />
+      <module name="EjerciciosAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecuenciaDeNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecuenciaDeNumeros" />
+      <module name="EjerciciosAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LanzamientoDados" />
+        <item itemvalue="Application.SecuenciaDeNumeros" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721511333596</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Committing changes before pushing">
+      <option name="closed" value="true" />
+      <created>1721513408943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721513408943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
